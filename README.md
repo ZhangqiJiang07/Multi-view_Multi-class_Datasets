@@ -3,9 +3,9 @@ This repo contains some benchmarks for evaluating Multi-view Multi-class machine
 
 ## 📄 Statistics of Datasets
 
-|No. | Datasets |#Samples | #Classes | #Views| Official URL |
-|----|----|----|----|----|----|
-|1|Caltech101-20|2,386|20|6|[https://www.vision.caltech.edu/datasets/](https://www.vision.caltech.edu/datasets/)|
+|No. | Datasets |#Samples | #Classes | #Views| Official URL | Tag|
+|----|----|----|----|----|----|----|
+|1|Caltech101-20|2,386|20|6|[https://www.vision.caltech.edu/datasets/](https://www.vision.caltech.edu/datasets/)|   |
 
 
 📢 More information can be found in ``Basic Info.xlsx``.
