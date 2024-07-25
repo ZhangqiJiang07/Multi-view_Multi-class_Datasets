@@ -13,11 +13,12 @@ This repo contains some benchmarks for evaluating Multi-view Multi-class machine
 
 
 ## 🔥🔥To-do List
-◻️ Select two to three Baselines.
+✅ Choose a baseline for Modality Evaluation.
+⬜ Write a script to evaluate the `quality' of each modality and present the results via Radar charts.
 
 
-## 🌋 Baseline Evaluation
-We adopt the SVM as a baseline to evaluate the contribution of each modality for the classification task.
+## 🌋 Modality Evaluation
+We simply adopt the SVM as a baseline to evaluate the contribution of each modality for the classification task.
 
 
 
