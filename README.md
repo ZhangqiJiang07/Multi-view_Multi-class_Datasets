@@ -14,6 +14,7 @@ This repo contains some benchmarks for evaluating Multi-view Multi-class machine
 
 ## 🔥🔥To-do List
 ✅ Choose a baseline for Modality Evaluation.
+
 ⬜ Write a script to evaluate the `quality' of each modality and present the results via Radar charts.
 
 
