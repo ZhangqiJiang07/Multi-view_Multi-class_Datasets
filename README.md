@@ -13,6 +13,14 @@ This repo contains some benchmarks for evaluating Multi-view Multi-class machine
 |5|Deep Caltech101|8,677|101|2|  | _Trusted Multi-View Classification_ |
 ||  |  |  |  |  |  |
 
+📌 MARK
+```
+|xxx.mat
+||-gnd: matrix, (sample_number, 1)
+||-X: cell, (1, view_num)
+|||-X{i}: matrix, (sample_number, feature_dimension)
+```
+
 
 
 
