@@ -22,7 +22,7 @@ This repo contains some benchmarks for evaluating Multi-view Multi-class machine
 |14|NUS-WIDE|30,000|31|5| `imbalance` |_Fast Multi-view Clustering via Ensembles: Towards Scalability, Superiority, and Simplicity_|
 
 
-✨ We have collated some publicly available datasets and you can download them from [[Baidu Netdisk](https://pan.baidu.com/s/1hHN4P_6PaQtO_REbZdb9oQ?pwd=36gc)]. The data format is as follows:
+✨ We have collated some publicly available datasets and you can download them from [Baidu Netdisk](https://pan.baidu.com/s/1hHN4P_6PaQtO_REbZdb9oQ?pwd=36gc). The data format is as follows:
 ```
 xxx.mat
 |---gnd: matrix, double, start from 1, (sample_number, 1).
