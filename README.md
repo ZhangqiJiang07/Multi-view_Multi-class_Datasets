@@ -5,7 +5,7 @@ This repo contains some benchmarks for evaluating Multi-view Multi-class machine
 📢 More information can be found in [[Google Sheets](https://docs.google.com/spreadsheets/d/15jSJqDot4-LPiX_GYSHJDkndXZGjYqOBm6LXl_j57U4/edit?usp=sharing) | [Tencent Docs](https://docs.qq.com/sheet/DY1lRV0VCcEJHcm5s?tab=BB08J2)].
 
 |No. | Datasets |#Samples | #Classes | #Views| Tag | Reference |
-|----|----|----|----|----|----|----|
+|----|----|:----:|:----:|:----:|----|----|
 |1|100Leaves|1,600|100|3|  | _Plant leaf classification using probabilistic integration of shape, texture and margin features_ |
 |2|Caltech101-7|1,474|7|6|  | _Large-scale multi-view spectral clustering via bipartite graph_ |
 |3|Caltech101-20|2,386|20|6|  | _Deep Incomplete Multi-View Learning Network with Insufficient Label Information_ |
