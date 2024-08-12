@@ -11,7 +11,7 @@ This repo contains some benchmarks for evaluating Multi-view Multi-class machine
 |3|Caltech101-20|2,386|20|6|  | _Deep Incomplete Multi-View Learning Network with Insufficient Label Information_ |
 |4|Caltech101|9,144|102|6|  | _Binary Multi-View Clustering_ |
 |5|Deep Caltech101|8,677|101|2|  | _Trusted Multi-View Classification_ |
-|6|Caltech256|30,607|257|3|  |  |
+|6|Caltech256|30,607|257|3|  |_Auto-weighted Multi-view Clustering for Large-scale Data_|
 |7|Deep AWA_2views|10,158|50|2|  |Deep Partial Multi-View Learning|
 |8|Reuters_2views|18,758|6|2|  |Multi-view Spectral Clustering Network|
 |9|
