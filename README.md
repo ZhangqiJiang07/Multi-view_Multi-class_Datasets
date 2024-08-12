@@ -19,10 +19,10 @@ This repo contains some benchmarks for evaluating Multi-view Multi-class machine
 
 ✨ The data format is as follows:
 ```
-|xxx.mat
-| |-gnd: matrix, double, start from 1, (sample_number, 1).
-| |-X: cell, (1, view_num)
-| | |-X{i}: matrix, double, (sample_number, feature_dimension).
+xxx.mat
+|---gnd: matrix, double, start from 1, (sample_number, 1).
+|---X: cell, (1, view_num)
+|---|---X{i}: matrix, double, (sample_number, feature_dimension).
 ```
 
 
