@@ -2,7 +2,7 @@
 This repo contains some benchmarks for evaluating Multi-view Multi-class machine learning algorithms.
 
 ## 📄 Statistics of Datasets
-📢 More information can be found in [[Google Sheets](https://docs.google.com/spreadsheets/d/15jSJqDot4-LPiX_GYSHJDkndXZGjYqOBm6LXl_j57U4/edit?usp=sharing) | [Tencent Docs](https://docs.qq.com/sheet/DY1lRV0VCcEJHcm5s?tab=BB08J2)].
+📢 More information about dataset can be found in [[Google Sheets](https://docs.google.com/spreadsheets/d/15jSJqDot4-LPiX_GYSHJDkndXZGjYqOBm6LXl_j57U4/edit?usp=sharing) | [Tencent Docs](https://docs.qq.com/sheet/DY1lRV0VCcEJHcm5s?tab=BB08J2)].
 
 |No. | Datasets |#Samples | #Classes | #Views| Tag | Reference |
 |----|----|:----:|:----:|:----:|----|----|
@@ -34,7 +34,8 @@ xxx.mat
 
 
 ## 🔥 Update
-- [2024/08/12] The script for label distribution plot is uploaded `label_distribution/plot_label_distribution.ipynb`! 
+- [2024/08/12] The script for label distribution plot is uploaded `label_distribution/plot_label_distribution.ipynb`!
+- [2024/08/08] Create a share link to datasets we have collected from the internet for public research. [[Baidu Netdisk](https://pan.baidu.com/s/1hHN4P_6PaQtO_REbZdb9oQ?pwd=36gc)]
 
 
 ## 🌋 Modality Evaluation
@@ -65,7 +66,7 @@ We simply adopt the SVM as a baseline to evaluate the contribution of each modal
 More figures can be found in fold `label_distribution`!
 
 ## Acknowledgements
-Most of the data were downloaded from these sites, for which we are very grateful:
+Some datasets were downloaded from these sites, for which we are very grateful:
 
 [1] [https://github.com/liujiyuan13/mvdata](https://github.com/liujiyuan13/mvdata)
 
