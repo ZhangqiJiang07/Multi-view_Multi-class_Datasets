@@ -41,7 +41,7 @@ We simply adopt the SVM as a baseline to evaluate the contribution of each modal
 
 
 ## 📊 Label Distribution
-
+![](./label_distribution/figs/Caltech101-7_label_dis.pdf)
 
 
 ## Acknowledgements
