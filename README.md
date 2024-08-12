@@ -60,8 +60,9 @@ We simply adopt the SVM as a baseline to evaluate the contribution of each modal
 <img  src="./label_distribution/figs/Reuters_dim10_2view_label_dis.png" width="200" />
 <img  src="./label_distribution/figs/Scene15_label_dis.png" width="200" />
 <img  src="./label_distribution/figs/AWA_Deep_2view_label_dis.png" width="200" />
-<img  src="./label_distribution/figs/100Leaves_label_dis.png" width="200" />
 </p>
+
+More figures can be found in fold `label_distribution`!
 
 ## Acknowledgements
 Most of the data were downloaded from these sites, for which we are very grateful:
