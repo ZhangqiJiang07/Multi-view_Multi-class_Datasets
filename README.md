@@ -2,7 +2,7 @@
 This repo contains some benchmarks for evaluating Multi-view Multi-class machine learning algorithms.
 
 ## 📄 Statistics of Datasets
-📢 More information can be found in [Google Sheets](https://docs.google.com/spreadsheets/d/15jSJqDot4-LPiX_GYSHJDkndXZGjYqOBm6LXl_j57U4/edit?usp=sharing)[Tencent Docs](https://docs.qq.com/sheet/DY1lRV0VCcEJHcm5s?tab=BB08J2).
+📢 More information can be found in [[Google Sheets](https://docs.google.com/spreadsheets/d/15jSJqDot4-LPiX_GYSHJDkndXZGjYqOBm6LXl_j57U4/edit?usp=sharing) | [Tencent Docs](https://docs.qq.com/sheet/DY1lRV0VCcEJHcm5s?tab=BB08J2)].
 
 |No. | Datasets |#Samples | #Classes | #Views| Tag | Reference |
 |----|----|----|----|----|----|----|
