@@ -47,6 +47,7 @@ We simply adopt the SVM as a baseline to evaluate the contribution of each modal
 
 
 ## 📊 Label Distribution
+📢 More figures can be found in fold `label_distribution`!
 
 <p align = "center">
 <img  src="./label_distribution/figs/Caltech101-20_label_dis.png" width="200" />
@@ -63,7 +64,7 @@ We simply adopt the SVM as a baseline to evaluate the contribution of each modal
 <img  src="./label_distribution/figs/AWA_Deep_2view_label_dis.png" width="200" />
 </p>
 
-More figures can be found in fold `label_distribution`!
+
 
 ## Acknowledgements
 Some datasets were downloaded from these sites, for which we are very grateful:
