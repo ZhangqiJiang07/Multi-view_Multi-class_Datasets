@@ -67,7 +67,16 @@ xxx.mat
 ## 🌋 Modality Evaluation
 We simply adopt the K-Means clustering algorithm as a baseline to evaluate the contribution of each modality under the NMI and Silhouette metrics. The results are as follows:
 
-
+<p align = "center">
+<img src="./modality_evaluation/radar_figs/100Leaves.png" width="200" />
+<img src="./modality_evaluation/radar_figs/Caltech101.png" width="200" />
+<img src="./modality_evaluation/radar_figs/Caltech101-7.png" width="200" />
+<img src="./modality_evaluation/radar_figs/Caltech101-20.png" width="200" />
+<img src="./modality_evaluation/radar_figs/Caltech256.png" width="200" />
+<img src="./modality_evaluation/radar_figs/NUSWIDE.png" width="200" />
+<img src="./modality_evaluation/radar_figs/OutScene.png" width="200" />
+<img src="./modality_evaluation/radar_figs/Scene15.png" width="200" />
+</p>
 
 
 ## 📊 Label Distribution
