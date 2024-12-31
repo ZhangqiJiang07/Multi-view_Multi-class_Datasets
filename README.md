@@ -65,7 +65,7 @@ xxx.mat
 
 
 ## 🌋 Modality Evaluation
-We simply adopt the K-Means clustering algorithm as a baseline to evaluate the contribution of each modality under the NMI and Silhouette metrics. The results are as follows:
+We simply adopt the _K-Means_ clustering algorithm as a baseline to evaluate the contribution of each modality under the _NMI_ and _Silhouette_ metrics. The results are as follows (more figures can be found in the `modality_evaluation` fold):
 
 <p align = "center">
 <img src="./modality_evaluation/radar_figs/100Leaves.png" width="200" />
@@ -80,7 +80,7 @@ We simply adopt the K-Means clustering algorithm as a baseline to evaluate the c
 
 
 ## 📊 Label Distribution
-📢 More figures can be found in fold `label_distribution`!
+📢 More figures can be found in the `label_distribution` fold!
 
 <p align = "center">
 <img  src="./label_distribution/figs/Caltech101-20_label_dis.png" width="200" />
