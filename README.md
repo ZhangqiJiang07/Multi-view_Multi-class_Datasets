@@ -53,6 +53,7 @@ xxx.mat
 |CORR|color CORRelation|
 |EDH|Edge Distribution Histogram|
 |WT|Wavelet Texture|
+|HOG|Histogram of Oriented Gradient|
 
 [**Note**] Modified from this [repo](https://github.com/ChuanbinZhang/Multi-view-datasets).
 
