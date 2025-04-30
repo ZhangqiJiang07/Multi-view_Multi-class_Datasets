@@ -38,6 +38,7 @@ xxx.mat
 |FSM|Fine Scale Margin|
 |FOU|FOUrier coefficients of the character shapes|
 |FAC|profile correlations|
+|KAR|KARhunen-Love coefficients|
 |PIX|PIXel averages in 2 × 3 windows|
 |ZER|ZERnike moment|
 |MOR|MORphological features|
