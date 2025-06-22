@@ -54,6 +54,7 @@ xxx.mat
 |EDH|Edge Distribution Histogram|
 |WT|Wavelet Texture|
 |HOG|Histogram of Oriented Gradient|
+|SURF|Speeded Up Robust Features|
 
 [**Note**] Modified from this [repo](https://github.com/ChuanbinZhang/Multi-view-datasets).
 
