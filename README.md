@@ -55,6 +55,7 @@ xxx.mat
 |WT|Wavelet Texture|
 |HOG|Histogram of Oriented Gradient|
 |SURF|Speeded Up Robust Features|
+|PHOG|Pyramid Histogram of Oriented Gradients|
 
 [**Note**] Modified from this [repo](https://github.com/ChuanbinZhang/Multi-view-datasets).
 
