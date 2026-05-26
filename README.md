@@ -1,5 +1,7 @@
-# Multi-view Multi-class Datasets
-This repo contains some benchmarks for evaluating Multi-view Multi-class machine learning algorithms.
+# Multi-view Multi-class Datasets and Methods
+This repo contains some benchmarks and baselines for evaluating Multi-view Multi-class machine learning algorithms.
+
+这个仓库包含了关于**多视图方向**，学习过程中搜集到的数据集和方法(一部分是复现的)，希望能对你在这个领域的熟悉和进步有一些帮助:)
 
 ## 🔥 Update
 - [2026/01/01] Release 11 shallow **Multi-view Semi-supervised Learning** implementation code in `traditional_MvSSL_baselines` fold.
