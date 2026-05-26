@@ -10,6 +10,9 @@ This repo contains some benchmarks and baselines for evaluating Multi-view Multi
 - [2024/08/12] The script for the label distribution plot is uploaded `label_distribution/plot_label_distribution.ipynb`!
 - [2024/08/08] Create a share link to datasets we have collected from the Internet for public research. [[Baidu Netdisk](https://pan.baidu.com/s/1hHN4P_6PaQtO_REbZdb9oQ?pwd=36gc)]
 
+## Baselines
+|No. | Methods | Paper | Link |
+|----|----|:----:|:----:|
 
 
 ## 📄 Statistics of Datasets
