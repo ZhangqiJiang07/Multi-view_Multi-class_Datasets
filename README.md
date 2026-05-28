@@ -10,9 +10,22 @@ This repo contains some benchmarks and baselines for evaluating Multi-view Multi
 - [2024/08/12] The script for the label distribution plot is uploaded `label_distribution/plot_label_distribution.ipynb`!
 - [2024/08/08] Create a share link to datasets we have collected from the Internet for public research. [[Baidu Netdisk](https://pan.baidu.com/s/1hHN4P_6PaQtO_REbZdb9oQ?pwd=36gc)]
 
-## Baselines
-|No. | Methods | Paper | Link |
-|----|----|:----:|:----:|
+## Baselines for Multi-view Semi-Supervised Learning
+|No. | Method | Paper | Pub. | Link |
+|----|----|:----:|:----:|:----:|
+|1|AMGL|_Parameter-free Auto-weighted Multiple Graph Learning: A Framework for Multiview Clustering and Semi-supervised Classification_|IJCAI'16||
+|2|AMMSS|_Heterogeneous Image Features Integration via Multi-modal Semi-supervised Learning Model_|ICCV'13||
+|3|AMSC|_Absent Multiview Semisupervised Classification_|TCYB'23||
+|4|AMUSE|_Multiview Semi-Supervised Learning Model for Image Classification_|TKDE'19||
+|5|CFSMC|_Adaptive Collaborative Fusion for Multi-view Semi-supervised Classification_|IF'23||
+|6|ERL-MVSC|_Embedding Regularizer Learning for Multi-View Semi-Supervised Classification_|TIP'21|[code](https://github.com/huangsuj/ERL-MVSC)|
+|7|FMSEL|_Flexible Multi-view Semi-supervised Learning with Unified Graph_|NN'21||
+|8|FMSSL|_Fast Multi-View Semi-Supervised Learning With Learned Graph_|TKDE'20|[code](https://github.com/caccode/FMSSL)|
+|9|MLAN|_Multi-view Clustering and Semi-supervised Classification with Adaptive Neighbours_|AAAI'17||
+|10|MVAR|_Scalable Multi-View Semi-Supervised Classification via Adaptive Regression_|TIP'17|[code](https://github.com/taohong08/Scalable-Multi-View-Semi-Supervised-Classification-via-Adaptive-Regression)|
+|11|SLIM|_Semi-Supervised Multi-Modal Learning with Incomplete Modalities_|IJCAI'18||
+|12|AGF-TI|Adversarial Graph Fusion for Incomplete Multi-view Semi-supervised Learning with Tensorial Imputation|NeurIPS'25|[code](https://github.com/ZhangqiJiang07/AGF_TI)|
+|*|DMF|_Matrix Completion by Deep Matrix Factorization_|NN'18|[code](https://github.com/jicongfan/Matrix-completion-by-deep-matrix-factorization)|
 
 
 ## 📄 Statistics of Datasets
