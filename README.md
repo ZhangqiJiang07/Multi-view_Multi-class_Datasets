@@ -10,7 +10,7 @@ This repo contains some benchmarks and baselines for evaluating Multi-view Multi
 - [2024/08/12] The script for the label distribution plot is uploaded `label_distribution/plot_label_distribution.ipynb`!
 - [2024/08/08] Create a share link to datasets we have collected from the Internet for public research. [[Baidu Netdisk](https://pan.baidu.com/s/1hHN4P_6PaQtO_REbZdb9oQ?pwd=36gc)]
 
-## Baselines for Multi-view Semi-Supervised Learning
+## 🏃‍♀️ Baselines for Multi-view Semi-Supervised Learning
 |No. | Method | Paper | Pub. | Link |
 |----|----|:----:|:----:|:----:|
 |1|AMGL|_Parameter-free Auto-weighted Multiple Graph Learning: A Framework for Multiview Clustering and Semi-supervised Classification_|IJCAI'16||
