@@ -4,13 +4,15 @@ This repo contains some benchmarks and baselines for evaluating Multi-view Multi
 这个仓库包含了关于**多视图方向**，学习过程中搜集到的数据集和方法(一部分是复现的)，希望能对你在这个领域的熟悉和进步有一些帮助:)
 
 ## 🔥 Update
-- [2026/01/01] Release 11 shallow **Multi-view Semi-supervised Learning** implementation code in `traditional_MvSSL_baselines` fold.
+- [2026/01/01] Release 11 shallow **Multi-view Semi-supervised Learning** implementation code in `traditional_MvSSL_baselines` folder.
 - [2024/12/30] Update the visual feature list of the image datasets!
 - [2024/12/29] The script to evaluate the modality quality with K-Means clustering algorithm is uploaded `modality_evaluation/modality_eval.py`!
 - [2024/08/12] The script for the label distribution plot is uploaded `label_distribution/plot_label_distribution.ipynb`!
 - [2024/08/08] Create a share link to datasets we have collected from the Internet for public research. [[Baidu Netdisk](https://pan.baidu.com/s/1hHN4P_6PaQtO_REbZdb9oQ?pwd=36gc)]
 
 ## 🏃‍♀️ Baselines for Multi-view Semi-Supervised Learning
+📢 The implementation code of the following methods can be found in the `traditional_MvSSL_baselines` folder.
+
 |No. | Method | Paper | Pub. | Link |
 |----|----|:----:|:----:|:----:|
 |1|AMGL|_Parameter-free Auto-weighted Multiple Graph Learning: A Framework for Multiview Clustering and Semi-supervised Classification_|IJCAI'16||
