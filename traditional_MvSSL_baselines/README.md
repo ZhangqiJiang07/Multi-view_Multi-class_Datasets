@@ -5,13 +5,3 @@ This repo collects 11 Multi-view Semi-supervised algorithms and 1 Recovery metho
 ## Usage
 1. Unzip the file `/baselines/['selected_method'].zip`.
 2. Unzip the file `/functions/Graph.zip`.
-
-## Content
-
-
-|Methods|Papers|Code Links|
-|:---|:---|:---|
-
-
-
-
